@@ -1,3 +1,9 @@
+/* il sagit du css global qui est importé dans _app.js */
+
+/* les fichiers css respectent un nom précis */
+/* nomdufichier.module.css */
+
+/* on importe ensuite notre style css dans le bon fichier */
 html,
 body {
   padding: 0;
